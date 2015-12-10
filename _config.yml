@@ -2,6 +2,7 @@ name: greenmaple
 favicon: null
 layout_spectrum: 0.10931349010206759
 typography_spectrum: 0.313996636075899
+title: Maple
 cta:
   domain: null
   bucket: null
