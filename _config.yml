@@ -1,7 +1,7 @@
 name: greenmaple
 favicon: null
-layout_spectrum: 0.10931349010206759
-typography_spectrum: 0.313996636075899
+layout_spectrum: 0
+typography_spectrum: 0.49422
 title: Maple
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#291811'
+    - '#ffffff'
+    - '#c1cabc'
+    - '#3b5727'
+    - '#809173'
   brandStrength: 0.6677094413898885
-  lightness: 0.1405036465730518
-  saturation: 0.5962200004141778
-  rhythmicContrast: 0.523574500111863
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
